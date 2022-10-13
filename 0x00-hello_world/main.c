@@ -7,5 +7,6 @@
  */
 int main(void)
 {
+    printf("please work")
     return (0);
 }
